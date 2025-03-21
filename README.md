@@ -1,13 +1,13 @@
 
 # WhatsApp notification channel for Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/netflie/laravel-notification-whatsapp.svg?style=flat-square)](https://packagist.org/packages/netflie/laravel-notification-whatsapp/)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/emanueletoffolon/laravel-notification-whatsapp.svg?style=flat-square)](https://packagist.org/packages/emanueletoffolon/laravel-notification-whatsapp/)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/github/workflow/status/netflie/laravel-notification-whatsapp/Tests.svg?style=flat-square)](https://github.com/netflie/laravel-notification-whatsapp/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/emanueletoffolon/laravel-notification-whatsapp/Tests.svg?style=flat-square)](https://github.com/emanueletoffolon/laravel-notification-whatsapp/actions)
 [![StyleCI](https://github.styleci.io/repos/576005059/shield)](hhttps://github.styleci.io/repos/576005059)
-[![Quality Score](https://img.shields.io/scrutinizer/g/netflie/laravel-notification-whatsapp.svg?style=flat-square)](https://scrutinizer-ci.com/g/netflie/laravel-notification-whatsapp)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/netflie/laravel-notification-whatsapp/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/netflie/laravel-notification-whatsapp?branch=main)
-[![Total Downloads](https://img.shields.io/packagist/dt/netflie/laravel-notification-whatsapp.svg?style=flat-square)](https://packagist.org/packages/netflie/laravel-notification-whatsapp/)
+[![Quality Score](https://img.shields.io/scrutinizer/g/emanueletoffolon/laravel-notification-whatsapp.svg?style=flat-square)](https://scrutinizer-ci.com/g/emanueletoffolon/laravel-notification-whatsapp)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/emanueletoffolon/laravel-notification-whatsapp/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/emanueletoffolon/laravel-notification-whatsapp?branch=main)
+[![Total Downloads](https://img.shields.io/packagist/dt/emanueletoffolon/laravel-notification-whatsapp.svg?style=flat-square)](https://packagist.org/packages/emanueletoffolon/laravel-notification-whatsapp/)
 
 This package makes it easy to send notifications using [WhatsApp Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api/) with Laravel.
 
@@ -31,7 +31,7 @@ This package uses the [whatsapp-cloud-api](https://github.com/netflie/whatsapp-c
 
 You can install the package via composer:
 ```
-composer require netflie/laravel-notification-whatsapp
+composer require emanueletoffolon/laravel-notification-whatsapp
 ```
 ### Setting up the WhatsApp Cloud API
 
