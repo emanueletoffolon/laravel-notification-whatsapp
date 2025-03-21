@@ -1,7 +1,7 @@
 {
-    "name": "netflie/laravel-notification-whatsapp",
+    "name": "emanueletoffolon/laravel-notification-whatsapp",
     "description": "Laravel notification driver for WhatsApp",
-    "homepage": "https://github.com/netflie/laravel-notification-whatsapp",
+    "homepage": "https://github.com/emanueletoffolon/laravel-notification-whatsapp",
     "license": "MIT",
     "keywords": [
         "whatsapp notification",
